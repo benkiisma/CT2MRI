@@ -6,11 +6,11 @@ This project is about the automatic labeling for MRI to CT co-registration as pa
 ***Date: 14/12/2022***
 
 ## Table of contents
-* [Introduction](##Introduction)
-* [Setup](##Setup)
-* [Data Preprocessing](##Data preprocessing)
-* [Running the Algorithm](##Running the algorithm)
-* [Visualizing the results](##Visualizing the results) 
+* Introduction
+* Setup
+* Data Preprocessing
+* Running the Algorithm
+* Visualizing the results
 
 ## Introduction
 
